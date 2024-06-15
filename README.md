@@ -1,2 +1,3 @@
-# forge
-Forge - make or shape
+npm install -g @ionic/cli cordova
+npm install -g @ionic/cli cordova
+
